@@ -7,7 +7,7 @@ The objective of this project is to demonstrate an end-to-end machine learning w
 
 The model uses Logistic Regression, a widely used statistical classification algorithm, to estimate the probability of heart disease occurrence. Hyperparameters were optimized using GridSearchCV combined with cross-validation to improve model performance and ensure robust evaluation.
 
-Key Features
+# Key Features
 
 Data preprocessing and feature selection from clinical dataset
 
@@ -73,6 +73,6 @@ Heart Rate
 
 Glucose Level
 
-Example Use Case
+# Example Use Case
 
 Machine learning models such as this can assist healthcare professionals in identifying patients at risk of heart disease and support early preventive decision-making.
