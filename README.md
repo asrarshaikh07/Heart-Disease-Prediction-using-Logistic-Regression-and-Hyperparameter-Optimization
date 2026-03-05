@@ -78,15 +78,11 @@ Glucose Level
 ## Model Performance
 
 ### Confusion Matrix
-
-![Confusion Matrix](images/confusion_matrix.png)
 <img width="809" height="545" alt="image" src="https://github.com/user-attachments/assets/046f8079-ac84-4849-a6c4-1b03022ff14f" />
 
 
 
 ### ROC Curve
-
-![ROC Curve](images/roc_curve.png)
 <img width="929" height="604" alt="image" src="https://github.com/user-attachments/assets/75936830-00a2-446c-ac94-97a1612c4aa8" />
 
 # Example Use Case
