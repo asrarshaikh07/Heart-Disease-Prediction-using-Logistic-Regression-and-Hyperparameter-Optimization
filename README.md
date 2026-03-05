@@ -1,2 +1,78 @@
 # Heart-Disease-Prediction-using-Logistic-Regression-and-Hyperparameter-Optimization
-Developed a machine learning classification model using Logistic Regression with hyperparameter tuning to predict heart disease risk based on clinical health indicators. Implemented data preprocessing, feature scaling, cross-validation, and model evaluation to analyze predictive performance.
+Heart Disease Risk Prediction using Logistic Regression
+
+This project implements a machine learning classification model to predict the likelihood of heart disease based on clinical health indicators such as age, cholesterol levels, blood pressure, BMI, heart rate, and glucose levels.
+
+The objective of this project is to demonstrate an end-to-end machine learning workflow, including data preprocessing, model training, hyperparameter optimization, and performance evaluation using Python and Scikit-Learn.
+
+The model uses Logistic Regression, a widely used statistical classification algorithm, to estimate the probability of heart disease occurrence. Hyperparameters were optimized using GridSearchCV combined with cross-validation to improve model performance and ensure robust evaluation.
+
+Key Features
+
+Data preprocessing and feature selection from clinical dataset
+
+Feature scaling using StandardScaler
+
+Train-test dataset splitting for model validation
+
+Implementation of Logistic Regression classifier
+
+Hyperparameter tuning using GridSearchCV
+
+Model evaluation using cross-validation techniques
+
+Performance analysis using confusion matrix and classification report
+
+Handling class imbalance using balanced class weights
+
+Technologies Used
+
+Python
+
+Pandas
+
+NumPy
+
+Scikit-Learn
+
+Matplotlib
+
+Seaborn
+
+Jupyter Notebook
+
+Model Evaluation
+
+The model performance was evaluated using:
+
+Accuracy Score
+
+Confusion Matrix
+
+Precision, Recall, and F1-Score
+
+Cross-Validation
+
+These evaluation metrics help assess the model’s ability to correctly classify heart disease cases while identifying potential class imbalance issues.
+
+Dataset Features
+
+The model was trained using the following health indicators:
+
+Age
+
+Total Cholesterol
+
+Systolic Blood Pressure
+
+Diastolic Blood Pressure
+
+Body Mass Index (BMI)
+
+Heart Rate
+
+Glucose Level
+
+Example Use Case
+
+Machine learning models such as this can assist healthcare professionals in identifying patients at risk of heart disease and support early preventive decision-making.
