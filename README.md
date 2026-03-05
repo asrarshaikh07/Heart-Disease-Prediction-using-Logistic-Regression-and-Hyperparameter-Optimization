@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction-using-Logistic-Regression-and-Hyperparameter-Optimization
+# Heart-Disease-Prediction-using-Logistic-Regression
 Heart Disease Risk Prediction using Logistic Regression
 
 This project implements a machine learning classification model to predict the likelihood of heart disease based on clinical health indicators such as age, cholesterol levels, blood pressure, BMI, heart rate, and glucose levels.
