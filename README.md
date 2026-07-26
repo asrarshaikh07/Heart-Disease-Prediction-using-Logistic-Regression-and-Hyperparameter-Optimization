@@ -80,10 +80,20 @@ Glucose Level
 ### Confusion Matrix
 <img width="809" height="545" alt="image" src="https://github.com/user-attachments/assets/046f8079-ac84-4849-a6c4-1b03022ff14f" />
 
-
-
 ### ROC Curve
 <img width="929" height="604" alt="image" src="https://github.com/user-attachments/assets/75936830-00a2-446c-ac94-97a1612c4aa8" />
+
+
+### Visualisations
+### 1. Overview
+<img width="1162" height="657" alt="image" src="https://github.com/user-attachments/assets/59a9e1a8-87a4-4c01-b4b6-8a29ad2a4e03" />
+
+### 2. Blood Pressure & Risks
+<img width="1167" height="653" alt="image" src="https://github.com/user-attachments/assets/2f0f3fac-9915-43be-b3ce-b56b6657f154" />
+
+### 3. Metabolic Factors
+<img width="1161" height="655" alt="image" src="https://github.com/user-attachments/assets/3ffad911-eeae-43f1-8005-05fd502a7ae3" />
+
 
 # Example Use Case
 
